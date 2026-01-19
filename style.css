@@ -26,7 +26,8 @@ h3 {
     padding-top: 50%;
     display: flex;
     flex-direction: row;
-    align-items: end;
+    align-items: center;
+    justify-content: center;
 }
 
 * {
