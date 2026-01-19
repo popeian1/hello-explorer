@@ -34,6 +34,10 @@ p {
     margin: auto;
 }
 
+section {
+    font-size: 20px;
+}
+
 #header {
     background-color: #242424;
     width: 100%;
