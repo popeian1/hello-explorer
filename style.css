@@ -5,6 +5,7 @@
 
 body {
     background-color: #3F3F3F;
+    text-align: center;
 }
 
 h1 {
@@ -49,6 +50,7 @@ p {
     flex-direction: row;
     padding-left: 20%;
     padding-right: 20%;
+    text-align: center;
 }
 
 * {
