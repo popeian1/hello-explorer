@@ -33,6 +33,7 @@ img {
 
 p {
     font-size: 32px;
+    margin: auto;
 }
 
 #header {
@@ -50,6 +51,7 @@ p {
     flex-direction: row;
     padding-left: 20%;
     padding-right: 20%;
+    margin-top: 35px;
     text-align: center;
 }
 
