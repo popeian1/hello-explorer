@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Inter";
-    src: url("Inter.ttf");
+    src: url("assets/Inter.ttf");
 }
 
 body {
@@ -24,11 +24,26 @@ h3 {
     margin-top: 16px;
 }
 
+img {
+    height: 500px;
+    width: 500px;
+    margin-right: 50px;
+}
+
+p {
+    font-size: 32px;
+}
+
 #header {
     background-color: #242424;
     width: 100%;
     height: 80px;
     padding-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+#content {
     display: flex;
     flex-direction: row;
 }
