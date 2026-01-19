@@ -55,6 +55,21 @@ p {
     text-align: center;
 }
 
+#links {
+    display: flex;
+    flex-direction: row;
+}
+
+#svg-active,
+#svg-unactive {
+    height: 100px;
+    width: 100px;
+}
+
+#svg-unactive {
+    opacity: 0.5;
+}
+
 * {
     margin: 0;
     padding: 0;
