@@ -62,7 +62,7 @@ p {
 #links {
     display: flex;
     flex-direction: row;
-    align-items: center;
+    justify-content: center;
 }
 
 #svg-active,
