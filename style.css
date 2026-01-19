@@ -5,7 +5,6 @@
 
 body {
     background-color: #3F3F3F;
-    text-align: center;
 }
 
 h1,
@@ -32,6 +31,10 @@ h3 {
 p {
     font-size: 32px;
     margin: auto;
+}
+
+h4 {
+    text-align: center;
 }
 
 section {
